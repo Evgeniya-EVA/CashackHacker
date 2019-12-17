@@ -1,0 +1,9 @@
+actual,expected,message
+1,999,Should be 999 if amount is 1
+47,953,Should be 953 if amount is 47
+500,500,Should be 500 if amount is 500
+999,1,Should be 1 if amount is 999
+1000,0,Should be 0 if amount is 1000
+1001,0,Should be 0 if amount is 1001
+1500,0,Should be 0 if amount is 1500
+10000,0,Should be 0 if amount is 10000
